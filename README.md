@@ -2,8 +2,6 @@
 
 Un sistema de automatización empresarial desarrollado en **Google Apps Script** para Google Sheets y Google Drive. Permite agrupar transacciones masivas por cliente, aplicar filtros avanzados por fecha/producto y generar comprobantes de pago en formato PDF renderizados dinámicamente mediante HTML/CSS.
 
-![Demostración del proyecto](docs/demo.gif)
-
 ---
 
 ## 🚀 Características Principales
@@ -55,13 +53,3 @@ Para que el script funcione correctamente, la hoja de cálculo de Google Sheets 
 6. Haz clic en **Recibos > Generar recibos** y concede los permisos de Google Workspace solicitados la primera vez.
 
 ---
-
-## 📊 Vista Previa del Recibo PDF
-
-El archivo HTML integrado compila un diseño limpio con paleta azul corporativa, encabezado comercial (`TODO MAYOR`), desglose detallado en tabla y pie de página no fiscal.
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
